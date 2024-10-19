@@ -30,4 +30,4 @@
 ![Скрин](https://github.com/garrkiss/docker/blob/main/img/task5-3.png)
 ![Скрин](https://github.com/garrkiss/docker/blob/main/img/task5-4.png)
 
-[Ccсылка на файл](https://github.com/garrkiss/docker/blob/main/files/compose.yml)
+[Cсылка на файл](https://github.com/garrkiss/docker/blob/main/files/compose.yml)
