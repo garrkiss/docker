@@ -22,4 +22,12 @@
 
 ### Задача 5
 
-![Скрин](https://github.com/garrkiss/docker/blob/main/img/task4.png)
+При выполнении команды docker compose up -d, Docker Compose по умолчанию ищет файл с именем docker-compose.yaml. Поскольку в вашей директории два файла с конфигурацией (один называется compose.yaml и другой docker-compose.yaml), будет запущен файл docker-compose.yaml. Причина в том, что именно этот файл является стандартным по умолчанию для Docker Compose. Чтобы использовать другой файл, нужно явно указать его с помощью флага -f.
+
+
+![Скрин](https://github.com/garrkiss/docker/blob/main/img/task5-1.png)
+![Скрин](https://github.com/garrkiss/docker/blob/main/img/task5-2.png)
+![Скрин](https://github.com/garrkiss/docker/blob/main/img/task5-3.png)
+![Скрин](https://github.com/garrkiss/docker/blob/main/img/task5-4.png)
+
+[Ccсылка на файл](https://github.com/garrkiss/docker/blob/main/files/compose.yml)
